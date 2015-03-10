@@ -23,5 +23,6 @@ package com.dyr.test;
 public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("Hello Git!!!");
+		System.out.println("增加类一条语句");
 	}
 }
