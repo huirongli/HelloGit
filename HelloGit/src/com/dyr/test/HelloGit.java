@@ -26,5 +26,6 @@ public class HelloGit {
 		System.out.println("增加类一条语句");
 		System.out.println("再增加一条语句");
 		System.out.println("又增加一条语句");
+		System.out.println("我到github服务器上去看看");
 	}
 }
